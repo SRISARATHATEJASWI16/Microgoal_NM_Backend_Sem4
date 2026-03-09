@@ -58,10 +58,8 @@ Backend/
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/SRISARATHATEJASWI16/Microgoal_NM_Backend_Sem4.git
 cd Backend
-```
 
 ### 2. Install dependencies
 ```bash
